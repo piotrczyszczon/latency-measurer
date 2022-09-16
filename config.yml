@@ -1,3 +1,5 @@
+# Directory path to store test results
 outputDirectory: test-results
 quickTest:
+  # Amount of requests to execute
   repeats: 100
